@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Economy and Sociology :smile:
 - 📫 How to reach me: [TWITTER](https://twitter.com/erhnhlkergl/)
-[![Twitter Badge] (https://img.shields.io/twitter/follow/erhnhlkergl?style=social)]
+![Twitter Badge] (https://img.shields.io/twitter/follow/erhnhlkergl?style=social)
 
 [![Github stats 2](https://github-readme-stats.vercel.app/api?username=erhnhlkergl&show_icons=true&theme=midnight-purple)]
 
