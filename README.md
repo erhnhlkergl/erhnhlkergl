@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 
 [![Github stats 2](https://github-readme-stats.vercel.app/api?username=erhnhlkergl&show_icons=true&theme=midnight-purple)]
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erhnhlkergl&repo=github-readme-stats&theme=shades-of-purple)](https://github.com/erhnhlkergl/erhnhlkergl/erhnhlkergl)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erhnhlkergl&repo=github-readme-stats&theme=shades-of-purple)](https://github.com/erhnhlkergl/erhnhlkergl)
