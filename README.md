@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+                                                                                                                          ![Github stats 2](https://github-readme-stats.vercel.app/api?username=erhnhlkergl&show_icons=true&theme=midnight-purple)
 
 Here are some ideas to get you started:
 
